@@ -5,5 +5,9 @@ Te doy la bienvenida a mi repositorio donde encontrarás una serie de archivos c
 ## 🔗 Links
 [Bases de linux](https://github.com/ZLCube/CPTS/blob/main/Bases%20de%20linux.md)
 
+[Permisos en linux](https://github.com/ZLCube/CPTS/blob/main/Permisos%20en%20Linux.md)
+
+[Rutas y descriptores](https://github.com/ZLCube/CPTS/blob/main/Rutas%20y%20descriptores.md)
+
 [Nmap](https://github.com/ZLCube/CPTS/blob/main/Uso%20de%20NMAP.md)
 
