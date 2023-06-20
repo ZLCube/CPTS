@@ -17,7 +17,7 @@ Conexiones con NETCAT
 
 Así mismo también podemos establecer conexiones con netcat, estas las podemos hacer con el comando *__netcat, ncat o nc__* y en caso de no tener la herramienta instalada podemos descargarla con el comando *__sudo apt install netcat__*, esta herramienta nos permitirá poner puertos en escucha, establecer conexiones, enviar y jalar archivos, entre otras funciones sin embargo es algo que veremos más adelante. En este ejemplo podemos utilizar netcat para establecer una conexión o mandar una traza por protocolos TCP y UDP en busca de el servicio corriendo en el puesto especificado.
 
-![[Pasted image 20230619190621.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619190621.png)
 
 ------------------------------------------------------------------------------------
 Conexiones FTP 
@@ -28,7 +28,7 @@ Este protocolo normalmente se aloja en el puerto 21 y podemos ver archivos  púb
 
 El comando sería  *__ftp -p IP__* lo cual nos establecerá una consola interactiva donde prodremos listar archivos, subir o descargar los mismos. Para establecer una conexión segura normalmente se utiliza el comando SFTP en lugar de FTP aun que al estar vulnerando un sistema no hace falta.
 
-![[Pasted image 20230619192946.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619192946.png)
 
 
 ------------------------------------------------------------------------------------
@@ -39,11 +39,11 @@ Las conexiones por SMB se pueden realizar de la misma manera que FTP o SSH, esto
 
 De igual forma podemos usar el comando get para jalar archivos a nuestro sistema local.
 
-![[Pasted image 20230619193706.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619193706.png)
 
 También podemos proporcionar tanto usuario como contraseña para establecer una conexión. 
 
-![[Pasted image 20230619193827.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619193827.png)
 
 ------------------------------------------------------------------------------------
 Conexión SNMP 
@@ -53,10 +53,10 @@ Para el servicio SNMP la autenticación y encriptación como modo de seguridad s
 
 Podemos utilizar el comando *__snmpwalk__* seguido de diferentes parámetros, como -v para definir la versión del servicio. Sin embargo no siempre se consigue establecer una conexión como en el siguiente ejemplo:
 
-![[Pasted image 20230619222149.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619222149.png)
 
 En estos casos tenemos una herramienta llamada *__onesixtyone__* la cual podemos encontrar en el siguiente link de GitHub con la finalidad de realizar ataques de fuerza bruta y crackear la credencial de acceso con un diccionario.  (https://github.com/trailofbits/onesixtyone)
 
-![[Pasted image 20230619222323.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619222323.png)
 
-[[Uso de NMAP]]
+![Uso de NMAP](https://github.com/ZLCube/CPTS/blob/main/CPTS/Uso%20de%20NMAP.md)
