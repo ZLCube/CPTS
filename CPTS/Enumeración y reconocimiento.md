@@ -18,25 +18,25 @@ Para listar subdominios con gobuster vamos a utilizar el siguiente comando:
 
 *__gobuster dns -d dominio.com -w /usr/share/SecLists/Discovery/DNS/namelist.txt__* donde los parámetros -d representan el sitio web que vamos a utilizar para descubrir subdominios y -w nos va a especificar la lista de palabras con la que realizaremos el ataque de diccionario.
 
-![[Pasted image 20230619235904.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235904.png)
 
 Para listar subdirectorios vamos a usar el siguiente comando:
 
 *__gobuster dir -u http://pagina -w /usr/share/dirb/wordlists/common.txt__* es prácticamente el mismo comando con la diferencia de la lista que usaremos ya que es diferente en cuanto a nombres y en lugar de usar dns usaremos dir
 
-![[Pasted image 20230620000002.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230620000002.png)
 
 Como parte del reconocimiento aparte de listado de subdominios y subdirectorios es necesario ver qué servicios y tecnologías utiliza la página que queremos vulnerar. Esto lo podemos hacer con una extensión del navegador llamada wappalyzer o por otro lado podemos usar una alternativa desde la consola linux. Esta herramienta viene preinstalada y se llama whatweb, a continuación te dejo un ejemplo: 
 
-![[Pasted image 20230619235428.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235428.png)
 
 Esto nos ayuda a ver que tecnologías y versiones usa para poder explotarlas posteriormente. Así mismo podemos ver el código fuente del sitio con el comando *__curl__* y así ver si hay contraseñas hardcodeadas o vulnerabilidades en el código fácil de explotar. 
 
-![[Pasted image 20230619235936.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235936.png)
 
 Una alternativa a curl puede ser apretar el atajo de teclas *__control + u__* en nuestro navegador y nos mostrará el código fuente, a continuación un ejemplo donde vemos credenciales escritas en el código del sitio web:
 
-![[Pasted image 20230619235731.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235731.png)
 
-[[Uso de NMAP]]
-[[Herramientas básicas y escaneo de servicios]]
+![Uso de NMAP](https://github.com/ZLCube/CPTS/blob/main/CPTS/Uso%20de%20NMAP.md)
+![Herramientas básicas y escaneo de servicios](https://github.com/ZLCube/CPTS/blob/main/CPTS/Herramientas%20b%C3%A1sicas%20y%20escaneo%20de%20servicios.md)
