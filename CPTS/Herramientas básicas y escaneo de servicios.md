@@ -9,7 +9,7 @@ Por el contrario con el parámetro -p le podemos proporcionar una contraseña, d
 
 La conexión nos regresaría una shell que se ve algo así:
 
-![[Pasted image 20230619185747.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619185747.png)
 
 ------------------------------------------------------------------------------------
 Conexiones con NETCAT
