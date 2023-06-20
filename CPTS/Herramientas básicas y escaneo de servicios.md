@@ -55,7 +55,7 @@ Podemos utilizar el comando *__snmpwalk__* seguido de diferentes parámetros, co
 
 ![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619222149.png)
 
-En estos casos tenemos una herramienta llamada *__onesixtyone__* la cual podemos encontrar en el siguiente link de GitHub con la finalidad de realizar ataques de fuerza bruta y crackear la credencial de acceso con un diccionario.  (https://github.com/trailofbits/onesixtyone)
+En estos casos tenemos una herramienta llamada *__onesixtyone__* la cual podemos encontrar en el siguiente link de GitHub con la finalidad de realizar ataques de fuerza bruta y crackear la credencial de acceso con un diccionario.  ![Onesixtyone](https://github.com/trailofbits/onesixtyone)
 
 ![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619222323.png)
 
