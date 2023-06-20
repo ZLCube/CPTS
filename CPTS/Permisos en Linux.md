@@ -33,9 +33,13 @@ Es más sencillo viéndolo de la siguiente manera 421 421 421, si hay letra es 1
 Si tenemos 101 significa que vamos a sumar 4 y 1 ya que el 2 es 0 es decir que no hay valor por lo que la sumatoria de el grupo del permiso sería 5
 
 En permisos octal se pueden referenciar como 755 al permiso
+
 RWX   R-X  R-X
+
 111   101  101
+
 421   4-1  4-1
+
  7     5    5
 
 *__chmod +t carpeta__*  agrega sticky bit para que solo el propietario o root puedan modificar esos archivos/directorios
