@@ -2,7 +2,7 @@ Nmap es una herramienta que nos permite escanear una dirección IP así como tam
 
 Para instalarla en cualquier distribución de linux es tan sencillo como usar el comando: 
 
-__*sudo apt install nmap
+__*sudo apt install nmap__*
 
 Para ejecutar nuestro escaneo básico de puertos podemos usar el comando *__nmap__* seguido de la dirección IP, sin embargo a pesar de ser un escaneo sencillo es un escaneo bastante ruidoso, por lo que podemos agregar diferentes parámetros para hacerlo más silencioso, rápido e incluso enfocado a lo que buscamos.
 A continuación tienes unos cuantos parámetros que puedes usar con nmap con sus respectivas descripciones y un ejemplo de cómo quedaría el escaneo completo.
