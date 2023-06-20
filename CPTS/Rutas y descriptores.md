@@ -43,4 +43,4 @@ exec 3<>&- nos cierra el descriptor que creamos
 exec 8>&3 nos permite clonar lo que hay en un descriptor "es como hacer una copia"
 exec 8>&3- nos clona el descriptor y cierra el que copiamos
 
-[[Permisos en Linux]]
+![Permisos en Linux](https://github.com/ZLCube/CPTS/blob/main/CPTS/Permisos%20en%20Linux.md)
