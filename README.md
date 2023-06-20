@@ -14,3 +14,5 @@ Te doy la bienvenida a mi repositorio donde encontrarás una serie de archivos c
 - [Escaneo de servicios y herramientas básicas](https://github.com/ZLCube/CPTS/blob/main/CPTS/Herramientas%20b%C3%A1sicas%20y%20escaneo%20de%20servicios.md)
 
 - [Uso de NMAP](https://github.com/ZLCube/CPTS/blob/main/CPTS/Uso%20de%20NMAP.md)
+
+- [Enumeración y reconocimiento](https://github.com/ZLCube/CPTS/blob/main/CPTS/Enumeraci%C3%B3n%20y%20reconocimiento.md)
