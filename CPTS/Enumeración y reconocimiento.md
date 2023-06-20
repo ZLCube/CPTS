@@ -39,4 +39,5 @@ Una alternativa a curl puede ser apretar el atajo de teclas *__control + u__* en
 ![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235731.png)
 
 ![Uso de NMAP](https://github.com/ZLCube/CPTS/blob/main/CPTS/Uso%20de%20NMAP.md)
+
 ![Herramientas básicas y escaneo de servicios](https://github.com/ZLCube/CPTS/blob/main/CPTS/Herramientas%20b%C3%A1sicas%20y%20escaneo%20de%20servicios.md)
