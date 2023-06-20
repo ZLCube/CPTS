@@ -12,7 +12,7 @@ Existen diferentes herramientas para el listado de subdominios y subdirectorios 
 
 Aparte de la herramienta que utilicemos para listar subdominios y subdirectorios vamos a necesitar la lista de donde sacar las palabras a fuzzear, a esta lista se le conoce como diccionario. A continuación te dejo un enlace a GitHub donde vas a poder encontrar la famosa [seclist](https://github.com/danielmiessler/SecLists), esta cuenta con diccionarios para ataques de fuerza bruta y listado de subdominios y subdirectorios. En sistemas base Debian como Kali o Parrot puedes usar el comando *__sudo apt install seclists__* .
 
-![[Pasted image 20230619235833.png]]
+![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619235833.png)
 
 Para listar subdominios con gobuster vamos a utilizar el siguiente comando:
 
