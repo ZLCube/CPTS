@@ -38,6 +38,6 @@ Como parte de la ciberseguridad, es necesario saber manejar los sistemas operati
 - __*| xargs*__  te permite agregar parámetros extra al resultado de un comando
 
 
-[[Permisos en Linux]]
-[[Rutas y descriptores]]
-[[Herramientas básicas y escaneo de servicios]]
+![Permisos en Linux](https://github.com/ZLCube/CPTS/blob/main/CPTS/Permisos%20en%20Linux.md)
+![Rutas y descriptores](https://github.com/ZLCube/CPTS/blob/main/CPTS/Rutas%20y%20descriptores.md)
+![Herramientas básicas y escaneo de servicios](https://github.com/ZLCube/CPTS/blob/main/CPTS/Herramientas%20b%C3%A1sicas%20y%20escaneo%20de%20servicios.md)
