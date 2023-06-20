@@ -59,4 +59,4 @@ Ser suid o sgid te permite ejecutar aplicaciones con permiso de root a fin de bu
 
 El permiso sgid se asigna con chmod g+s o chmod 2755 
 
-[[Rutas y descriptores]]
+![Rutas y descriptores](https://github.com/ZLCube/CPTS/blob/main/CPTS/Rutas%20y%20descriptores.md)
