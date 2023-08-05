@@ -44,3 +44,4 @@ Como parte de la ciberseguridad, es necesario saber manejar los sistemas operati
 
 ![Herramientas básicas y escaneo de servicios](https://github.com/ZLCube/CPTS/blob/main/CPTS/Herramientas%20b%C3%A1sicas%20y%20escaneo%20de%20servicios.md)
 
+![Claves públicas y privadas](https://github.com/ZLCube/CPTS/blob/main/CPTS/Creaci%C3%B3n%20De%20Claves%20P%C3%BAblicas%20Y%20Privadas.md)
