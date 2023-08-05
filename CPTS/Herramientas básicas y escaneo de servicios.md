@@ -60,3 +60,5 @@ En estos casos tenemos una herramienta llamada *__onesixtyone__* la cual podemos
 ![](https://github.com/ZLCube/CPTS/blob/main/CPTS/Recursos/Pasted%20image%2020230619222323.png)
 
 ![Uso de NMAP](https://github.com/ZLCube/CPTS/blob/main/CPTS/Uso%20de%20NMAP.md)
+
+![Claves públicas y privadas](https://github.com/ZLCube/CPTS/blob/main/CPTS/Creaci%C3%B3n%20De%20Claves%20P%C3%BAblicas%20Y%20Privadas.md)
