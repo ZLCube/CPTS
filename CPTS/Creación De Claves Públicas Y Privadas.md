@@ -1,5 +1,5 @@
 
-Para crear una clave privada que nos puede servir para cifraar archivos, conexiones, etc. Podemos usar la herramienta openssl con los siguientes parámetros, esto nos generará una clave privada:
+Para crear una clave privada que nos puede servir para cifrar archivos, conexiones, etc. Podemos usar la herramienta openssl con los siguientes parámetros, esto nos generará una clave privada:
 
 ```
 openssl genrsa -out keyprivada.pem 2048
